@@ -1,0 +1,76 @@
+#logo {
+	width: 300px;
+}
+
+#header {
+	width: 100%;
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+#product-nav {
+	background-color: black;
+}
+
+#product-nav  ul{
+	margin: 10px auto;
+}
+
+#product-nav  li{
+	font-size: 10pt;
+	list-style-type: none;
+	display: inline;
+	color: white;
+	margin-right: 5%;
+}
+
+em  {
+	font-size: 12pt;
+}
+
+#map-bel {
+	margin-top: 30px;
+	width: 80%;
+	box-shadow: 10px 10px 10px black;
+}
+
+.bottom {
+	background-color: black;
+	padding: 0 10px;
+	margin: 4px auto;
+	width: 100%;
+	color: #6A5ACD;
+}
+
+.bottom  li{
+	list-style-type: none;
+	display: inline;
+	font-size: 12pt;
+	padding-right: 10px;
+}
+
+h2 {
+	font-weight: bold;
+	border-bottom: 1px solid black;
+	color: #6A5ACD;
+}
+
+.bottom h2 {
+	color: #A9A9A9;
+	font-weight: normal;
+	margin-top: 10px;
+	padding-top: 4px;
+	font-size: 16pt;
+}
+
+
+
+
+
+
+
+
+
+
